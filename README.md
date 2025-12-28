@@ -4,8 +4,7 @@ Analista de Suporte em Tecnologia da Informação com sólida experiência em in
 
 ## 📍 Sobre Mim
 
-- 📌 Curitiba - Paraná - Brasil  
-- 📞 Celular / WhatsApp: +55 41 98742-6996  
+- 📌 Curitiba - Paraná - Brasil
 - 💬 Telegram: [@MauPaim](https://t.me/MauPaim)  
 - 📧 Email: [paim.mauricio@gmail.com](mailto:paim.mauricio@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/mpaim](https://br.linkedin.com/in/mpaim)  
