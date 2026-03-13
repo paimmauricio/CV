@@ -39,7 +39,7 @@ Analista de Suporte em Tecnologia da Informação com sólida experiência em in
 ## 💼 Experiência Profissional
 
 ### 🔸 Supermercados Jacomar (2021 - Atual)
-**Cargo atual:** Coordenador de Cybersegurança
+**Cargo atual:** Coordenador de Cybersegurança<br>
 **Cargo anterior:** Analista de Suporte  
 **Atividades:** Administração de servidores, firewalls, VMs, segurança, rede e monitoramento de ativos.
 
