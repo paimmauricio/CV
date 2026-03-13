@@ -9,7 +9,7 @@ Analista de Suporte em Tecnologia da Informação com sólida experiência em in
 - 📧 Email: [paim.mauricio@gmail.com](mailto:paim.mauricio@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/mpaim](https://br.linkedin.com/in/mpaim)  
 - 💻 GitHub: [github.com/paimmauricio](https://github.com/paimmauricio)  
-- 🌐 Site: [Currículo Online](https://paimmauricio.wixsite.com/cvitae)
+- 🌐 Site: [Currículo Online](https://www.mauriciopaim.com.br)
 
 ---
 
