@@ -1,6 +1,18 @@
 # Maurício Paim 👨‍💻
 
-Analista de Suporte em Tecnologia da Informação com sólida experiência em infraestrutura, redes, segurança da informação e ambientes corporativos. Especializado em administração de servidores, firewalls Fortigate, monitoramento com Zabbix, virtualização com VMware, e redes com equipamentos Aruba.
+Profissional especialista em Tecnologia da Informação com sólida trajetória em Infraestrutura de Redes, Telecomunicações e Cibersegurança. Pós-graduado em Cybersegurança e graduado em Gestão de TI.
+
+Ao longo da minha carreira, atuei em ambientes de alta criticidade e grande escala, incluindo passagens por órgãos públicos federais (Ministério do Desenvolvimento e Presidência da República), grandes players do setor de tecnologia (Furukawa Electric, TIVIT) e, atualmente, no setor de varejo (Grupo Jacomar).
+
+Principais Especialidades e Escopo de Atuação:
+
+Cibersegurança & Operações: Gestão de segurança perimetral, administração de Firewalls Fortigate (FCSA), monitoramento e resposta a incidentes em ambientes SOC e NOC. Atuação com ferramentas como Kaspersky EDR, FortiAnalyzer e Vigilant (SIEM - Auto XDR).
+
+Infraestrutura & Redes: Administração e virtualização de servidores (VMware vSphere), monitoramento de ativos críticos via Zabbix e Grafana. Configuração de redes corporativas (switches Aruba, HP, 3Com) e implementação de tecnologias SD-WAN e GPON/EPON.
+
+Governança de TI: Gestão de acessos (IAM), Active Directory, rotinas de backup/recuperação de desastres e continuidade de negócios.
+
+Core Tech Stack: Cybersecurity, Fortigate Firewall, VMware, SIEM, SOC/NOC, Zabbix, Grafana, SD-WAN, Active Directory, Redes e Infraestrutura de TI.
 
 ## 📍 Sobre Mim
 
@@ -9,13 +21,14 @@ Analista de Suporte em Tecnologia da Informação com sólida experiência em in
 - 📧 Email: [paim.mauricio@gmail.com](mailto:paim.mauricio@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/mpaim](https://br.linkedin.com/in/mpaim)  
 - 💻 GitHub: [github.com/paimmauricio](https://github.com/paimmauricio)  
-- 🌐 Site: [Currículo Online](https://www.mauriciopaim.com.br)
+- 🌐 Site: [mauriciopaim.com.br](https://www.mauriciopaim.com.br)
 
 ---
 
 ## 🎓 Formação Acadêmica
 
-- **Gestão de Tecnologia da Informação** — FAEL
+- **Pós-Graduação - Cibersegurança** — Faculdade Líbano
+- **Superior Gestão de Tecnologia da Informação** — FAEL
 
 ---
 
@@ -39,8 +52,8 @@ Analista de Suporte em Tecnologia da Informação com sólida experiência em in
 ## 💼 Experiência Profissional
 
 ### 🔸 Supermercados Jacomar (2021 - Atual)
-**Cargo atual:** Coordenador de Cybersegurança<br>
-**Cargo anterior:** Analista de Suporte  
+**Cargo atual:** Analista de Cybersegurança Senior<br>
+**Cargo anterior:** Analista de Suporte Junior
 **Atividades:** Administração de servidores, firewalls, VMs, segurança, rede e monitoramento de ativos.
 
 ### 🔸 TIVIT | Furukawa Electric (2017 - 2021)  
